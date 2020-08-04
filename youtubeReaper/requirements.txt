@@ -1,0 +1,3 @@
+pytube3==9.6.4
+pytube==9.6.0
+reapy==0.0
